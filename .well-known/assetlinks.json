@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dangeloaguilar.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["6E:41:B5:E3:A6:C2:19:1D:B5:4C:18:03:1E:87:B5:CF:86:A4:41:38:7B:D4:BD:40:AE:70:BE:5F:8D:62:2F:09"]
+    }
+  }]
